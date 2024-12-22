@@ -1,1 +1,6 @@
 # CS-255
+The DriverPass project was about designing a system to help students pass their driving tests. The client, DriverPass, wanted a tool that combined online practice exams and on-the-road training to better prepare students. My job was to figure out what the client needed (business requirements) and then design a system (system design) that could meet those needs. I created documents with clear goals, requirements, and diagrams to show how the system would work.
+
+I’m proud of how well I captured the client’s needs and translated them into clear system designs. My use of diagrams like use case and activity diagrams made it easy to understand the system’s structure and workflow. If I could improve anything, I’d make the technical requirements section more detailed, especially about scalability and future integrations, like adding cloud services.
+
+Understanding the client’s needs was key to creating a useful system. I used their feedback to make sure the design worked for all users, like students, managers, and IT staff. In the future, I’ll keep using diagrams and focus on gathering regular feedback to make systems that are user-friendly, secure, and adaptable. This project showed me how important it is to communicate ideas clearly and think ahead when designing software.
